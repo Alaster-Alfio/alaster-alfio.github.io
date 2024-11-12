@@ -2,7 +2,7 @@
   "name": "pizza-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Alaster-Alfio.github.io/alaster-alfio.github.io",
+  "homepage": "https://alaster-alfio.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
